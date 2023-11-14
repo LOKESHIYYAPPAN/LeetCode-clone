@@ -59,7 +59,7 @@ nav{
 }
 nav::after{
     content: "";
-    width: 200%;
+    width: 300%;
     position: absolute;
     transform: rotate(10deg);
     height: 150vh;
